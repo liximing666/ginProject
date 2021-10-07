@@ -6,8 +6,8 @@
   "sms": {
     "sign_name": "name",
     "template_name": "tname",
-    "app_key": "LTAI5t7iBPNYBnTCfWjsFFJK",
-    "app_secret": "Y3JhnESe3rwXaaKi2Von5xQuHCViCR",
+    "app_key": "",
+    "app_secret": "",
     "regine_id": "cn-hangzhou"
   }
 }
