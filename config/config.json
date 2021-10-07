@@ -1,0 +1,13 @@
+{
+  "app_name": "cloudrestaurant",
+  "app_mode": "debug",
+  "app_host": "127.0.0.1",
+  "app_port": "9000",
+  "sms": {
+    "sign_name": "name",
+    "template_name": "tname",
+    "app_key": "LTAI5t7iBPNYBnTCfWjsFFJK",
+    "app_secret": "Y3JhnESe3rwXaaKi2Von5xQuHCViCR",
+    "regine_id": "cn-hangzhou"
+  }
+}
